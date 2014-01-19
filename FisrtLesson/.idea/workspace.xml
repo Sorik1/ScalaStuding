@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e5e9822-8839-4ea6-b4b6-045823fb96ad" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ArithmeticUtil.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.scala" afterPath="$PROJECT_DIR$/src/Main.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FisrtLesson.iws" />
@@ -69,7 +71,16 @@
       <file leaf-file-name="Main.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="33" selection-start="113" selection-end="113" vertical-scroll-proportion="0.21963824" vertical-offset="0" max-vertical-offset="544">
+            <state line="11" column="2" selection-start="284" selection-end="284" vertical-scroll-proportion="0.48320413" vertical-offset="0" max-vertical-offset="387">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArithmeticUtil.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArithmeticUtil.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
               <folding />
             </state>
           </provider>
@@ -90,6 +101,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/src/ArifmeticUtills.scala" />
+        <option value="$PROJECT_DIR$/src/ArithmeticUtill.scala" />
         <option value="$PROJECT_DIR$/src/Main.scala" />
       </list>
     </option>
@@ -125,7 +138,7 @@
     <OptionsSetting value="true" id="Edit" />
     <OptionsSetting value="true" id="Undo Check Out" />
     <OptionsSetting value="true" id="Get Latest Version" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -503,17 +516,21 @@
       <changelist id="9e5e9822-8839-4ea6-b4b6-045823fb96ad" name="Default" comment="" />
       <created>1390163199277</created>
       <updated>1390163199277</updated>
-      <workItem from="1390163207062" duration="5511000" />
+      <workItem from="1390163207062" duration="5930000" />
     </task>
     <task id="LOCAL-00001" summary="Creating sqrt function">
       <created>1390170569226</created>
       <updated>1390170569226</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creating sqrt function&#10;">
+      <created>1390170764797</created>
+      <updated>1390170764797</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5511000" />
+    <option name="totallyTimeSpent" value="5930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -560,7 +577,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Creating sqrt function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating sqrt function" />
+    <MESSAGE value="Creating sqrt function&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating sqrt function&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -590,9 +608,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArithmeticUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="33" selection-start="113" selection-end="113" vertical-scroll-proportion="0.21963824" vertical-offset="0" max-vertical-offset="544">
+        <state line="11" column="2" selection-start="284" selection-end="284" vertical-scroll-proportion="0.48320413" vertical-offset="0" max-vertical-offset="387">
           <folding />
         </state>
       </provider>
