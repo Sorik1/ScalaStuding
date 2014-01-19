@@ -1,3 +1,4 @@
+package sqrt
 
 object Main extends App {
 
