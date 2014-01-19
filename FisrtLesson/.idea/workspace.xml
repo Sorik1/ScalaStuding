@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e5e9822-8839-4ea6-b4b6-045823fb96ad" name="Default" comment="Creating sqrt function">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.scala" afterPath="$PROJECT_DIR$/src/Main.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="9e5e9822-8839-4ea6-b4b6-045823fb96ad" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FisrtLesson.iws" />
@@ -71,7 +69,7 @@
       <file leaf-file-name="Main.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="34" selection-start="156" selection-end="191" vertical-scroll-proportion="0.35142118" vertical-offset="0" max-vertical-offset="544">
+            <state line="5" column="33" selection-start="113" selection-end="113" vertical-scroll-proportion="0.21963824" vertical-offset="0" max-vertical-offset="544">
               <folding />
             </state>
           </provider>
@@ -87,6 +85,7 @@
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -504,12 +503,17 @@
       <changelist id="9e5e9822-8839-4ea6-b4b6-045823fb96ad" name="Default" comment="" />
       <created>1390163199277</created>
       <updated>1390163199277</updated>
-      <workItem from="1390163207062" duration="5327000" />
+      <workItem from="1390163207062" duration="5511000" />
     </task>
+    <task id="LOCAL-00001" summary="Creating sqrt function">
+      <created>1390170569226</created>
+      <updated>1390170569226</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5327000" />
+    <option name="totallyTimeSpent" value="5511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -588,7 +592,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="34" selection-start="156" selection-end="191" vertical-scroll-proportion="0.35142118" vertical-offset="0" max-vertical-offset="544">
+        <state line="5" column="33" selection-start="113" selection-end="113" vertical-scroll-proportion="0.21963824" vertical-offset="0" max-vertical-offset="544">
           <folding />
         </state>
       </provider>
